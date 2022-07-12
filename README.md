@@ -1,1 +1,3 @@
 # ABC-CarDealership
+
+Africa as a continent is developing, thus it falls under category of third world. In the past decade there has been a rise in purchase of used vehicles from Japan.This  kind of vehicles have earned them a nickcame "Ex-Jap" in one African country known as Zimbabwe. With the car market in Africa currently flooded with these vehicles, I have decided to to create this dApp to create a decentralised marketplace for the sale of this vehicles. The dApp will also allow for the purchase of vehicles using cryptocurrency to make the trade more less formal and efficient compared to the system that is currently used. The vehicles from the far East Asia are deemed to be affordable  to the general popupation of Africa.
